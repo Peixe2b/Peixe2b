@@ -1,5 +1,4 @@
-- 👋 Oi, eu sou o @Peixe2b
-- 👀 Estou interessado em game development
-- 🌱 atualmente estou aprendendo C# e Ruby
-- 💞️ procuro colaborar em ajudar outras pessoas
-
+- 👋 Hi, I'm @Peixe2b
+- 👀 I'm interested in game development
+- 🌱 I'm currently learning C# and Java
+- 💞️ I try to collaborate in helping other people
