@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fish</h1>
-<h3 align="center">a game developer, pixel artist and i like to create scripts for the terminal</h3>
+<h3 align="center">a game developer and pixel artist</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fish" alt="fish" /></a> </p>
 
