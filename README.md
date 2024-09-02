@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fish" alt="fish" /></a> </p>
 
-- 🌱 I’m currently learning **Python, C#, MonoGame and Bash**
+- 🌱 I’m currently learning **GO lang, UI/UX design and Figma**
 
-- 📫 How to reach me: **jclodoaldosantana204@gmail.com**
+- 📫 How to reach me: **jclodoaldosantana204@gmail.com** or **peixereal205@gmail.com**
 
-- 💞️ I try to collaborate in helping other people
+- 💞️ I try to collaborate in helping other people, I am open for **volunteer** work 
 
 <hr>
 
