@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Go lang, UI/UX design and Figma**
 
-- 👯 I’m looking to collaborate on [Pygame](https://github.com/pygame/pygame)
+- I’m looking to collaborate on [Pygame](https://github.com/pygame/pygame)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
