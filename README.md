@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=peixe2b" alt="peixe2b" /></a> </p>
 
-- I’m currently working on [ZigZag-Editor](https://github.com/Peixe2b/Zig-ZagEditor)
+- I’m currently working on [PWE](https://github.com/Peixe2b/PWE)
 
-- I’m currently learning **Go lang, UI/UX design and Figma**
+- I’m currently learning **C lang, UI/UX design and Python (for PCAP certification)**
 
 - I’m looking to collaborate on [Pygame](https://github.com/pygame/pygame)
 
