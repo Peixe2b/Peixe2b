@@ -5,7 +5,7 @@
 
 - I’m currently working on [PWE](https://github.com/Peixe2b/PWE)
 
-- I’m currently learning **C lang, UI/UX design and Python (for PCAP certification)**
+- I’m currently learning **GoLang, Software Architecture and Python**
 
 - I’m looking to collaborate on [Pygame](https://github.com/pygame/pygame)
 
