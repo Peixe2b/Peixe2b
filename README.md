@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paulo Matheus</h1>
-<h3 align="center">a game developer and python programmer from Brazil!</h3>
+<h3 align="center">Python/Java programmer from Brazil!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=peixe2b" alt="peixe2b" /></a> </p>
 
