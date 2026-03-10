@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Paulo Matheus</h1>
-<h3 align="center">Python/Java programmer from Brazil!</h3>
+<h3 align="center">Python/C programmer from Brazil!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=peixe2b" alt="peixe2b" /></a> </p>
 
-- I’m currently working on [PWE](https://github.com/Peixe2b/PWE)
+- I’m currently working on [Vantage-OS]([https://github.com/Peixe2b/PWE](https://github.com/Pragma-Project/Vantage-OS))
 
-- I’m currently learning **GoLang, Software Architecture and Python**
-
-- I’m looking to collaborate on [Pygame](https://github.com/pygame/pygame)
+- I’m currently learning **Java, Software Architecture and Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
