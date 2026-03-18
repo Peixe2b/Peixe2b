@@ -5,7 +5,7 @@
 
 - I’m currently working on [Vantage-OS]([https://github.com/Peixe2b/PWE](https://github.com/Pragma-Project/Vantage-OS))
 
-- I’m currently learning **Java, Software Architecture and Python**
+- I’m currently learning **Java, Software Architecture and UX Design**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
